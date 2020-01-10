@@ -14,4 +14,4 @@
 .slick-slide.dragging img{pointer-events:none}
 .slick-initialized .slick-slide{display:block}
 .slick-loading .slick-slide{visibility:hidden}
-.slick-vertical .slick-slide{display:block;height:auto;/*6666*/}
+.slick-vertical .slick-slide{display:block;height:auto;width:auto/*9999*/}
