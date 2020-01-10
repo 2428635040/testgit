@@ -13,6 +13,6 @@ aaaaaa
 *******
 bbbbbb
 ccccccc
-dddddd
+dddddd----rrr
 eeeeee
-ffffff
+ffffff---eeeee
